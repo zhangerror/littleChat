@@ -1,6 +1,7 @@
 ## littleChat
 
 - 基于 Linux Qt 的即时聊天系统
+- 详细设计及测试过程：http://120.26.179.141/?tag=%e5%9f%ba%e4%ba%8elinux-qt%e7%9a%84%e5%8d%b3%e6%97%b6%e8%81%8a%e5%a4%a9%e7%b3%bb%e7%bb%9f
 
 ## 主要内容
 
