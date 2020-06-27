@@ -1,0 +1,6 @@
+me [2020-06-27 22:55:38 周六]
+hello
+My Friend : 
+picture -- /home/lpenguin/chat/record/server_record/record2020-06-27 22:55:43 周六.jpg
+me [2020-06-27 22:55:59 周六]
+bye
